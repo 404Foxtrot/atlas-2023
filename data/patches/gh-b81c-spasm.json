@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": ":spasm:",
+	"description": "Everyone's favourite emoji in r/phigrosGame Discord server. The character which this emoji features is Kuzumi. She is one of the characters from Phigros, a rhythm game made by Pigeon Games. Kuzumi makes an appearance in an illustration for a song named \"Spasmodic\" (where name for emoji \"spasm\" comes from) and also plays a relatively big part in Phigros story.",
+	"links": {
+		"subreddit": [
+			"phigrosGame"
+		],
+		"discord": [
+			"QCgdbGbNgu"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1228,
+				-697
+			],
+			[
+				1228,
+				-710
+			],
+			[
+				1206,
+				-710
+			],
+			[
+				1206,
+				-697
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1217,
+			-703
+		]
+	}
+}
